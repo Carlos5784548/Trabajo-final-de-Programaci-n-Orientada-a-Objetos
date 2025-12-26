@@ -1,4 +1,4 @@
-# Trabajo-final-de-Programaci-n-Orientada-a-Objetos
+# Trabajo-final-de-Programacion-Orientada-a-Objetos
 🏋️ Sistema de Administración de Gimnasio – C++
 📌 Descripción general
 
