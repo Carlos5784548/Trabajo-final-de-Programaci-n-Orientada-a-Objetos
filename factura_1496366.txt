@@ -1,0 +1,8 @@
+====== FACTURA DE PAGO ======
+Cliente: Lopez, Pedro
+DNI: 1496366
+Actividad: Musculacion
+-----------------------------
+Fecha: 2025-07-21 | Monto: $5000 | Método: EFECTIVO
+-----------------------------
+Total pagado: $5000

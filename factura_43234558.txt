@@ -1,0 +1,12 @@
+====== FACTURA DE PAGO ======
+Cliente: Trod, Carlos
+DNI: 43234558
+Actividad: Musculacion
+-----------------------------
+Fecha: 2025-07-09 | Monto: $5000 | Método: EFECTIVO
+Fecha: 2025-07-10 | Monto: $6000 | Método: EFECTIVO
+Fecha: 2025-07-11 | Monto: $7000 | Método: EFECTIVO
+Fecha: 2025-07-21 | Monto: $6000 | Método: MERCADO PAGO
+Fecha: 2025-07-22 | Monto: $200 | Método: MERCADO PAGO
+-----------------------------
+Total pagado: $24200

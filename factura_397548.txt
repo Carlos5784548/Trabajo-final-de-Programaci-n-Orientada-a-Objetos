@@ -1,0 +1,9 @@
+====== FACTURA DE PAGO ======
+Cliente: Rivola, Jorge
+DNI: 397548
+Actividad: Musculacion
+-----------------------------
+Fecha: 2025-07-21 | Monto: $5000 | Método: MERCADO PAGO
+Fecha: 2025-07-22 | Monto: $3000 | Método: TRANSFERENCIA
+-----------------------------
+Total pagado: $8000

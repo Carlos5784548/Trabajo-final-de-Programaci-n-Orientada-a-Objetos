@@ -1,0 +1,8 @@
+====== FACTURA DE PAGO ======
+Cliente: Perez, Graciela
+DNI: 16548923
+Actividad: Funcional
+-----------------------------
+Fecha: 2025-07-21 | Monto: $6000 | Método: MERCADO PAGO
+-----------------------------
+Total pagado: $6000
